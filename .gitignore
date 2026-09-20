@@ -1,0 +1,31 @@
+# Data — never commit the ICBHI database or derived features
+data/
+*.npz
+*.wav
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+runs/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
