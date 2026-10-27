@@ -21,7 +21,7 @@ that no amount of model tuning removes:
 
 - Only ~126 patients, so the effective sample size is far smaller than the 6,898
   cycle count suggests.
-- Severe class imbalance — 52.8% Normal, 7.3% Both.
+- Severe class imbalance — 52.8% Normal, 7.3% both.
 - Substantial label noise. Human annotators disagree about whether a given cycle
   contains a crackle more often than you would hope.
 
